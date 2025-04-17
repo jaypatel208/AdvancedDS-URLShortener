@@ -35,8 +35,6 @@ A professional URL shortener application that implements various advanced data s
    ```
    pip install -r requirements.txt
    ```
-3. Run the application with python main.py
-4. Access the URL shortener at http://localhost:8000
 
 ## Running the Application
 
